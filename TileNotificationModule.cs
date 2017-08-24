@@ -2,7 +2,6 @@
 using System.Text;
 using Windows.Data.Xml.Dom;
 using Windows.UI.Notifications;
-using Microsoft.Toolkit.Uwp.Notifications;
 
 namespace ReactNativeNotification
 {

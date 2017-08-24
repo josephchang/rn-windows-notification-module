@@ -107,6 +107,7 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BadgeNotificationModule.cs" />
     <Compile Include="ReactNativeNotificationPackage.cs" />
     <Compile Include="TileNotificationModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
